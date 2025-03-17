@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://curly-goldfish-g4qp4xjr4qxxfpwgw-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://curly-goldfish-g4qp4xjr4qxxfpwgw-30100.app.github.dev"  
